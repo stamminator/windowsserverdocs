@@ -29,7 +29,7 @@ When you finish installing Server Core on a system and sign in for the first tim
 
 In other words, there is **no desktop** in Server Core, by design. While maintaining the capabilities required to support traditional business applications and role-based workloads, Server Core does not have a traditional desktop interface. Instead, Server Core is designed to be managed remotely through the command line, PowerShell, or a GUI tool (like [RSAT](../../remote/remote-server-administration-tools.md) or [Windows Admin Center](../../manage/windows-admin-center/overview.md)).
 
-In addition to no UI, Server Core also differs from the Server with Desktop Experience in the following ways:
+In addition to no graphical UI, Server Core also differs from the Server with Desktop Experience in the following ways:
 
 - Server Core does not have any accessibility tools
 - No OOBE (out-of-box-experience) for setting up Server Core
